@@ -1,0 +1,27 @@
+<html>
+
+    <head>
+        <title>Собаки</title>
+    </head>
+
+    <body>
+
+        <a href="https://google.com"  target="_blank"></a>
+
+            
+        <img src=https://i5.imageban.ru/out/2023/03/07/f0c4a0304e61a88d6ab830bbad21f290.jpg
+
+         
+
+        <h1>Чем питаются кошки</h1>
+
+        <ol>
+            <li>Мясо</li>
+            <li>Корм</li>
+        </ol>
+
+        <marquee>Собаки лутше Кошек</marquee>
+
+    </body>
+
+</html>
